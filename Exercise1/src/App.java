@@ -8,6 +8,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.concurrent.ConcurrentHashMap;
 
+/* To use, run App.js and follow instructions in terminal */
+
 public class App {
 
     static class Runner implements Runnable {
